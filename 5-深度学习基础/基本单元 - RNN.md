@@ -12,7 +12,7 @@ tags: 深度学习
 - [LSTM：RNN最常用的变体](https://zhuanlan.zhihu.com/p/44124492)
 - [RNN 的梯度消失问题](https://zhuanlan.zhihu.com/p/44163528)
 - [RNN vs LSTM vs GRU -- 该选哪个？](https://zhuanlan.zhihu.com/p/55386469)
-RNN and GRU 架构: https://www.jianshu.com/p/3774d46b665e
+- RNN and GRU 架构: https://www.jianshu.com/p/3774d46b665e
 
 ## QA
 
